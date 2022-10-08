@@ -11,19 +11,19 @@
 </p>
 
 <p align="center">
-<a href="https://kit.svelte.dev" style="appearance: none;">
+<a href="https://kit.svelte.dev">
 <img width="100px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1663804918/yassi/mxrjfvymnux04jhjwlh2.svg" align="center" alt="svelte" />
 </a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://prisma.io" style="appearance: none;">
+<a href="https://prisma.io">
 <img width="200px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1665260524/yassi/fhvpnjjhhv6evwakpvid.svg" align="center" alt="nodejs" />
 </a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://planetscale.com" style="appearance: none;">
+<a href="https://planetscale.com">
 <img width="100px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1665260586/yassi/xtq1q6vuvmvrxse8knky.svg" align="center" alt="planetscale" />
 </a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://tailwindcss.com" style="appearance: none;">
+<a href="https://tailwindcss.com">
 <img width="200px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1660842725/yassi/dglubft3rg2iuh6fxsaf.svg" align="center" alt="tailwind" />
 </a>
 
