@@ -96,6 +96,10 @@
 	onMount(async () => await loadVideos())
 </script>
 
+<svelte:head>
+	<title>Youtube Gallery</title>
+</svelte:head>
+
 <div class="flex flex-col justify-center  items-center font-fresca">
 	<svg class="w-40 pr-4" viewBox="0 0 448 148" fill="none" xmlns="http://www.w3.org/2000/svg">
 		<path
